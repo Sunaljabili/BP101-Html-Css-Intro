@@ -1,0 +1,18 @@
+img{
+  width: 100%;
+  border-top: 20px solid aqua;
+  border-bottom: 20px solid aqua;
+  margin-bottom: -5px;
+}
+.green{
+    border: 20px solid green;
+}
+
+.yellow{
+    border: 20px solid yellow;
+}
+
+.orange{
+    width: 500px;
+    border:20px solid orange;
+}

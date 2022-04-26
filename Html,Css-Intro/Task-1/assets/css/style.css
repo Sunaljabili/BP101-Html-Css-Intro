@@ -1,0 +1,15 @@
+.container{
+    width: 600px;
+    border: 3px solid green;
+    padding: 20px;
+    margin: 0 auto;
+}
+.container .green{
+    background-color: rgb(229, 245, 245);
+    border-bottom: 3px solid green;
+    padding: 8px;
+}
+.container .lorem-line{
+    line-height: 30px;
+
+}
